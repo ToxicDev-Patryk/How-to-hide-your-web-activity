@@ -54,12 +54,6 @@ Tutorial - How to hide your web activity even from ISP
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde?hl=en-US&utm_source=ext_sidebar)
 - [VT4Browsers](https://chromewebstore.google.com/detail/vt4browsers/efbjojhplkelaegfbieplglfidafgoka?hl=en-US&utm_source=ext_sidebar)
 
-### Full Disk Encryption
-- Use tools like BitLocker (this one is built into windows)
-- VeraCrypt
-- FileVault 2
-- Sophos SafeGuard
-
 ### Tor Network
 - Slow asf but very good protection for being anon (;
 
