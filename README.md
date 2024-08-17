@@ -40,6 +40,26 @@ Tutorial - How to hide your web activity even from ISP
 - Proxy - Proxies are not designed to encryp traffic or data but it's possible with SSH Tunneling
  - Socks5 - You can host your own SOCKS5 proxy server and use SSH Tunneling for extra layer of encryption 
 
+### HTTPS
+- [This browser extension ensures that you connect to websites securely using HTTPS, which encrypts the data exchanged between your browser and the website.](https://chromewebstore.google.com/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm?hl=en-US&utm_source=ext_sidebar)
+
+### Disable Tracking in Your Browser
+- Most modern browsers have settings to disable tracking. For example, you can enable “Do Not Track” requests and block third-party cookies.
+
+### Privacy Extensions
+- [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US&utm_source=ext_sidebar)
+- [Anti Grabify](https://chromewebstore.google.com/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn?hl=en-US&utm_source=ext_sidebar)
+- [Guardio](https://chromewebstore.google.com/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn?hl=en-US&utm_source=ext_sidebar)
+- [ThreatSlayer](https://chromewebstore.google.com/detail/threatslayer-security-phi/mgcmocglffknmbhhfjihifeldhghihpj?hl=en-US&utm_source=ext_sidebar)
+- [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde?hl=en-US&utm_source=ext_sidebar)
+- [VT4Browsers](https://chromewebstore.google.com/detail/vt4browsers/efbjojhplkelaegfbieplglfidafgoka?hl=en-US&utm_source=ext_sidebar)
+
+### Full Disk Encryption
+- Use tools like BitLocker (this one is built into windows)
+- VeraCrypt
+- FileVault 2
+- Sophos SafeGuard
+
 ### Tor Network
 - Slow asf but very good protection for being anon (;
 
